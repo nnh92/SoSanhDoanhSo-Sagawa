@@ -15,4 +15,5 @@ Chú ý:
 	+ Trên biểu Sagawa, cột N và O thực tế k tồn tại, giá trị ở 2 cột này chỉ dùng với mục đích hướng dẫn cách tính giá trị cột O
 	+ Giá trị của cột O sử dụng để tính tổng tiền sẽ nhận được từ Sagawa ở bước cuối cùng
 	+ Ở bước cuối cùng, công thức sẽ là tổng các giá trị trong cột O trừ đi (-) ¥481 (phí chuyển khoản)
-![image](https://github.com/nnh92/SoSanhDoanhSo-Sagawa/assets/78486384/4a38b432-f094-4aff-9b8c-af8151c72269)
+
+![image](https://github.com/nnh92/SoSanhDoanhSo-Sagawa/assets/78486384/9a67562f-7634-43b7-9886-db13f0698d78)
